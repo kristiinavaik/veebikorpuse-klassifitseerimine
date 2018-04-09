@@ -1,0 +1,16 @@
+1. Millistele tunnustele vastavad tekstid liigitasite ilma kõhklemata mitte-kirjakeelseteks?
+--Kõhklemata läksid mitte-kirjakeelseteks need, millel olid <emotikonid> tekstis. Üldjuhul tulid nendega kaasa ka muud kirjavead. Ainult ühe puhul oli muidu korrektne kirjakeelne blogitekst, millel üks emotikon sees. 
+--Sellised sõnad nagu "võeh" ja "no" on mitte-kirjakeelsed.
+--Vahel juhtus, et oli kasutatud slängi või kõnekeelseid sõnu.
+--Kus oli arvestataval määral vigu. "Arvestataval määral" on kehv (mittemidagiütlev) mõõdik, aga ma ei oska paremini sõnastada. Ühelt poolt tahaks, et kirjakeelsed tekstid oleks täiesti veatud (kindel arvutile sisse sööta), teiselt poolt vaatab täiesti korralikus tekstis vastu ainult üks viga. Samas see üks viga läheb arvutis kirjakeelsuse alla ja ma ei tea, kui tugevalt see programmi mõjutab. Minu tehtud tabeleid on vast otstarbekas vaadata ka, sest sealt on näha, milliseid vigu ma leidsin ("," = komaviga) ja mis ma seejärel otsustasin (või otsustamata jätsin). Teksti pikkus pole välja toodud, kuid see oli ka mõjutegur. Üks viga ühes lõigus on tõsisem, kui üks viga peatükis (vigade kontsentratsioon on suurem). Lõpuks tunnetasin iga teksti puhul eraldi, kui räige iga viga oli ja mis on lõpptulemus. 
+2. Milliseid tekste oli raske liigitada, mille puhul te kõige rohkem kõhklesite?
+--Kui pikas tekstis oli ainult kaks väikest miniviga (eriti trüki- ja/või komaviga).
+
+3. Millised olid Sinu otsused ja mõtted liigitamise ajal?
+--Alapealkirjad on minu arvates punkti puudumisest hoolimata kirjakeelsed, kuigi sellises tekstiformaadis (kõik järjest ja eraldamata) tekitas segadust.
+--Tekstidevaheline sodi (kasutajanimed, postituse kuupäevad jms) läksid ka kirjakeele alla, kuigi ma ei tea, kui hea see bag of words meetodi puhul on. Vaatasin ikka sisu. Üldjuhul oli tegu foorumitega, kus kirjakeelsust hoolega ei jälgitud (ja tekstidevahelisest sodist hoolimata olid tekstid mitte-kirjakeelseD). Minu lemmik oli vigane tekst, mis rääkis, et kommentaare postitades tuleb õigekiri üle kontrollida. Autor tegi vigu, mida ta ise välja tõi!
+--Kokku- ja lahkukirjutamine ning suur algustäht kuulub kirjakeelsuse hulka.
+--Paar korda juhtus, et oli grammatikaviga (nt "nemad läheb").
+--Kuna KM andis alguses mulle kolm liigitust ("mis liigitaks mingi eestikeelse teksti kirjakeelseks, mitte-kirjakeelseks või täielikuks sodiks (st ei sisalda seotud teksti)"), siis esimeses blokis (kasitsi_I) seosetu teksti liigitasin mitte-kirjakeelseks ja lisasin juurde, et seosetu tekst. Teises blokis teadsin juba, et teksti sidusust ei jälgita (KV ütles: " Teksti sidusust me hetkel ei vaata üldse, sest me kasutame bag of words meetodit. Mõned dokumendid on jah parajad tohuvabohud. Seepärast ongi oluline, et neid dokumente võimalikult täpselt ja õigesti hinnata.") ja ma ei võtnud määramisel seda enam arvesse. Kommentaaridesse märkisin ära, et pole sidus (ainult 2 teksti olid sellised).
+ --Elagu pikad riigikogu arutlused! Need olid täitsa veatud.
+
